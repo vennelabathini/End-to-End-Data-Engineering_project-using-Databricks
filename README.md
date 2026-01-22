@@ -1,0 +1,2 @@
+# End-to-End-Data-Engineering_project-using-Databricks
+This project complete end-to-end data engineering pipeline built using Databricks Free Edition, Apache Spark, &amp; LakeFlow Spark Declarative Pipelines. The use-case simulates transportation domain scenario where trip, city data is ingested, transformed, enriched, and prepared for analytics following a medallion architecture (Bronze → Silver → Gold).
